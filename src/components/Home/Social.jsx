@@ -7,7 +7,7 @@ const Social = () => {
         href="https://www.linkedin.com/in/sachin-sharma-052875144/"
         className="home__social-icon"
         target="_blank"
-        rel="noopener"
+        rel="noreferrer"
       >
         <i class="bx bxl-linkedin"></i>
       </a>
@@ -15,7 +15,7 @@ const Social = () => {
         href="https://github.com/Sachinsharma0237"
         className="home__social-icon"
         target="_blank"
-        rel="noopener"
+        rel="noreferrer"
       >
         <i class="uil uil-github-alt"></i>
       </a>
@@ -23,7 +23,7 @@ const Social = () => {
         href="https://www.hackerrank.com/dashboard"
         className="home__social-icon"
         target="_blank"
-        rel="noopener"
+        rel="noreferrer"
       >
         <i class="bx bx-code-alt"></i>
       </a>

@@ -38,7 +38,7 @@ const Contact = () => {
                 href="mailto:sachinsharma0237@gmail.com"
                 className="contact__button"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -53,7 +53,7 @@ const Contact = () => {
                 href="https://api.whatsapp.com/send?phone=9540360365&text=Hello, more information!"
                 className="contact__button"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -70,7 +70,7 @@ const Contact = () => {
                 href="https://www.linkedin.com/in/sachin-sharma-052875144/"
                 className="contact__button"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>

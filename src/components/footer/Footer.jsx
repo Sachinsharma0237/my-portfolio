@@ -30,7 +30,7 @@ const Footer = () => {
             href="https://www.instagram.com/sachinnnsharmaaa/"
             className="footer__social-icon"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             <i class="bx bxl-instagram"></i>
           </a>
@@ -38,7 +38,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/sachin-sharma-052875144/"
             className="footer__social-icon"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             <i className="bx bxl-linkedin"></i>
           </a>
@@ -46,7 +46,7 @@ const Footer = () => {
             href="https://www.facebook.com/"
             className="footer__social-icon"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             <i class="bx bxl-facebook"></i>
           </a>
