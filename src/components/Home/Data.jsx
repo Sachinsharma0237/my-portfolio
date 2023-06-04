@@ -1,5 +1,5 @@
 import React from "react";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 
 const Data = () => {
   return (
@@ -62,7 +62,7 @@ const Data = () => {
         dedicated to my work.
       </p>
 
-      <span className="primary-text" style={{ fontSize: "smaller" }}>
+      {/* <span className="primary-text" style={{ fontSize: "smaller" }}>
         <h1>
           {""}
           <Typical
@@ -80,7 +80,7 @@ const Data = () => {
           />
         </h1>
       </span>
-      <br />
+      <br /> */}
 
       <a href="#contact" className="button button--flex">
         Say Hello
