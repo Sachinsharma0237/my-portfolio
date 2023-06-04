@@ -23,6 +23,7 @@ const About = () => {
             href="https://docs.google.com/document/d/15fAP9F00zOVrYlhSRhNv5c6DFd82DNfQmQ-WlqoUFXI/edit#heading=h.cpc2osqxba94"
             className="button button--flex"
             target="_blank"
+            rel="noopener"
           >
             Download CV
             <svg
